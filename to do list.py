@@ -68,4 +68,4 @@ while True:
         break
 
     else:
-        print("Pilihan tidak valid. Mata dipake, jangan pajangan.")
+        print("Pilihan tidak valid. Mata dipake, jangan pajangan")
