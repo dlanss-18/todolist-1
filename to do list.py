@@ -64,7 +64,7 @@ while True:
 
     # Keluar
     elif pilihan == "5":
-        print("Program selesai. Akhirnya manusia berhenti nambah kerjaan.")
+        print("Program selesai. Akhirnya manusia berhenti nambah kerjaann.")
         break
 
     else:
